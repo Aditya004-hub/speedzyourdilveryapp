@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155090117200",
+    "project_id": "sign-in-bc0fd",
+    "storage_bucket": "sign-in-bc0fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155090117200:android:43ef705898d7162ffce755",
+        "android_client_info": {
+          "package_name": "com.example.speedz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155090117200-jtpr3m4cm0v09gjkvptjoi3r1ic6r6i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOuxg4tfgoaqb5NwEL-9HuDxHLKgfEfJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155090117200-jtpr3m4cm0v09gjkvptjoi3r1ic6r6i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
